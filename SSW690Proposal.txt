@@ -1,0 +1,17 @@
+SSW 690 Group - “SimplyScheduled” project
+
+Description: The project will allow Stevens students to plan out their schedules more efficiently than jumping around the student services scheduler. The student will be made aware of scheduling restrictions such as the limited amount of online classes a student can take.
+
+Customers: Stevens students will benefit from this program but other universities may benefit from this once a template architecture is created.
+
+Impact and some Features: The students will enjoy a simple, resourceful, and quick way to set up their semesters scheduling without the hassle of jumping around resources and having the registrar reject their schedule because of unknown information to the student.
+
+Feasibility: This project will be successful because the data is available within Stevens, the Design is relatively simple with concepts that have been previously accomplished before.
+
+Hurdles: Integration of security and one-sign on portal, initial data acquisition of all classes and restrictions.
+
+Design: The program will be web based with a user interface for selection options of classes. The student will be presented with restrictions as classes are added or removed. The student will be able to see the weekly layout of classes and be aware of conflicts.
+	Components: User interface, Database (classes, restrictions, room numbers)
+	Interfaces: Algorithm to optimize and work with restrictions, functionality to present data into schedule.
+	Network: TCP/IP
+
